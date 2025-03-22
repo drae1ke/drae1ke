@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drae1ke
-- 👀 I’m interested in ...web and software development 
+- 👀 I’m interested in ...web and software development, data analysis
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...any c++ projects 
 - 📫 How to reach me ... phelleeks@gmail.com
